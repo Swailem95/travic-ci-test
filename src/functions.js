@@ -5,7 +5,7 @@ module.exports = {
     },
 
     divide: function(a,b){
-      return a/b;
+      return 1 * a/b;
     },
 
     multiply: function(a, b){
