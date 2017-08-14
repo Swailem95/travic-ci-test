@@ -5,11 +5,11 @@ module.exports = {
     },
 
     divide: function(a,b){
-      return b/a;
+      return a/b;
     },
 
     multiply: function(a, b){
-      return a * b;
+      return a * 0;
     }
 
 
