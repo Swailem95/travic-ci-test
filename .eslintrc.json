@@ -1,0 +1,7 @@
+{
+    "extends": "./node_modules/eslint-config-google/index.js",
+    "rules": {
+    "linebreak-style": 0
+  }
+
+}

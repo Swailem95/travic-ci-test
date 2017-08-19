@@ -5,3 +5,7 @@ node_js:
   - "8"
   - "7"
   - "6"
+
+# send message in slack after build completes
+  notifications:
+    slack: ibm-app:Ooy2o8HkT9FLrCPbuJYISfxN

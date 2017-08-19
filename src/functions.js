@@ -1,16 +1,16 @@
 module.exports = {
 
-    add: function(a, b){
+    add: function(a, b) {
       return a + b;
     },
 
-    divide: function(a,b){
+    divide: function(a, b) {
       return a/b;
     },
 
-    multiply: function(a, b){
+    multiply: function(a, b) {
       return a * b;
-    }
+    },
 
 
-}
+};

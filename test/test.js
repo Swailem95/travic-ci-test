@@ -1,5 +1,10 @@
 var expect    = require("chai").expect;
 var mathFunctions = require('../src/functions');
+var lint = require('mocha-eslint');
+
+//test ESLint
+var paths = ['src'];
+lint(paths);
 
 describe("Math Operations", function() {
 
